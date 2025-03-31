@@ -3,7 +3,7 @@
 📧 이메일 : hjyj050107@naver.com  
 📞 연락처 : 010-5694-0107  
 🏠 주소 : 서울특별시 도봉구 마들로 616  
-<img src="https://cdn-icons-png.flaticon.com/512/25/25231.png" width="20px"></img> 깃허브 : [yujin517](https://github.com/yujin517)
+<img src="https://cdn-icons-png.flaticon.com/512/25/25231.png" width="20px"> 깃허브 : [yujin517](https://github.com/yujin517)
 
 ## 자기소개
 데이터 사이언스를 전공하며 머신러닝과 빅데이터 분석 기술을 활용한 다양한 프로젝트를 수행해 왔습니다.  
